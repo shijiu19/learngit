@@ -4,3 +4,4 @@ git add README.md
 git commit -m "first commit"
 
 Creating a new branch is quick AND simple
+creat feature2
