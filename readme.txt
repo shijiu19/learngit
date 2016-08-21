@@ -1,3 +1,4 @@
+﻿test bug branch
 echo "# learngit" >> README.md
 git init
 
